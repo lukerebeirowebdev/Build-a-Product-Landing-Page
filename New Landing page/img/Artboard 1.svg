@@ -1,0 +1,36 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1500">
+    <path
+        d="M827.7,1155.86c-34.54,59.81-120.86,59.81-155.4,0L476.5,816.72,319,543.82C267.41,454.57,331.83,343,434.89,343h630.22c103.06,0,167.48,111.57,115.94,200.82L1023.5,816.72Z"
+        style="fill:#1d1d1b" />
+    <polyline
+        points="592.72 605.95 755.93 529.36 906.72 605.95 886.85 1066.93 839.32 1143.07 839.32 1204 661.98 1204 661.98 1146.82 661.98 1142.05 620.8 1071.59"
+        style="fill:#CACACA" />
+    <circle cx="657" cy="691" r="27" />
+    <circle cx="845" cy="691" r="27" />
+    <circle cx="657" cy="804" r="27" />
+    <circle cx="845" cy="804" r="27" />
+    <circle cx="656" cy="917" r="27" />
+    <circle cx="844" cy="917" r="27" />
+    <circle cx="942" cy="691" r="27" style="fill:#CACACA" />
+    <rect x="881" y="685" width="40" height="13" style="fill:#CACACA" />
+    <circle cx="942" cy="804" r="27" style="fill:#CACACA" />
+    <rect x="881" y="798" width="40" height="13" style="fill:#CACACA" />
+    <circle cx="938" cy="917" r="27" style="fill:#CACACA" />
+    <rect x="877" y="911" width="40" height="13" style="fill:#CACACA" />
+    <circle cx="557" cy="691" r="27" style="fill:#CACACA" />
+    <rect x="578" y="684" width="40" height="13" transform="translate(1196 1381) rotate(180)" style="fill:#CACACA" />
+    <circle cx="561" cy="804" r="27" style="fill:#CACACA" />
+    <rect x="582" y="797" width="40" height="13" transform="translate(1204 1607) rotate(180)" style="fill:#CACACA" />
+    <circle cx="565" cy="915" r="27" style="fill:#CACACA" />
+    <rect x="586" y="908" width="40" height="13" transform="translate(1212 1829) rotate(180)" style="fill:#CACACA" /><text
+        transform="translate(460 467.5)"
+        style="font-size:72px;fill:#fff;font-family:CopperplateGothic-Light, Copperplate Gothic Light;font-weight:300">Gui
+        <tspan x="125.65" y="0" style="letter-spacing:-0.06201171875em">t</tspan>
+        <tspan x="160.98" y="0">ar Ma</tspan>
+        <tspan x="380.14" y="0" style="letter-spacing:0.0107421875em">k</tspan>
+        <tspan x="425.32" y="0">e</tspan>
+        <tspan x="468.25" y="0" style="letter-spacing:-0.01123046875em">r</tspan>
+        <tspan x="513.42" y="0">s</tspan>
+    </text></svg>
+
+    

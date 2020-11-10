@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>GUITAR MAKERS</title>
+</head>
+
+<body>
+    <section class="sec">
+        <header>
+            <a href="#"><img src="/img/new logo.png" alt="logo" class="logo"></a>
+            <div class="toggleMenu" onclick="menuToggle();"></div>
+            <ul class="navigation">
+                <li><a href="#"></a>HOME</li>
+                <li><a href="#"></a>ABOUT</li>
+                <li><a href="#"></a>GUITARS</li>
+                <li><a href="#"></a>CONTACT</li>
+            </ul>
+        </header>
+        <div class="content">
+            <div class="textBox">
+                <h2>Fender American Professional II<br><span></span></h2>
+                <p>Precision bass hardware is some of the most resilient around, and that can be said of the American
+                    Pro II. It's equipped with Fender's advanced HiMass Vintage bridge, ensuring even vibration
+                    distribution for precise body feedback while playing and unwavering tuning stability, working in
+                    tandem with the real bone nut and lightweight vintage-style tuning keys.
+                </p>
+                <a href="#">View All Guitars</a>
+            </div>
+            <div class="imgBox">
+                <img src="/img/Guitar 1.png" class="guitar">
+            </div>
+        </div>
+        <ul class="thumb">
+            <li><img src="/img/Guitar 1.png" onclick="imgSlider('/img/Guitar 1.png');changeBgColor('#CACACA')"></li>
+            <li><img src="/img/Guitar 2.png" onclick="imgSlider('/img/Guitar 2.png');changeBgColor('#807c7c')"></li>
+            <li><img src="/img/Guitar 3.png" onclick="imgSlider('/img/Guitar 3.png');changeBgColor('#DDB48D')"></li>
+        </ul>
+        <ul class="sci">
+            <li><a href="#"><img src="/img/facebook.png" alt=""></a></li>
+            <li><a href="#"><img src="/img/twitter.png" alt=""></a></li>
+            <li><a href="#"><img src="/img/instagram.png" alt=""></a></li>
+        </ul>
+    </section>
+
+    <script src="/script.js"></script>
+
+</body>
+
+</html>
