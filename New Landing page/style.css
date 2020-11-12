@@ -26,16 +26,17 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  padding: 20px 100px;
+  padding: 10px 10px;
   display: flex;
   justify-content: space-around;
   align-items: center;
   cursor: pointer;
+  background: #CACACA;
 }
 
 header .logo {
   position: relative;
-  max-width: 80px;
+  max-width:  100px;
   margin-right: 20px;
 }
 
