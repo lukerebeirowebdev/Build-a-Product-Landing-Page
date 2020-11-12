@@ -1,1 +1,36 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800"><text/><text transform="translate(76.21 398.61)" style="font-size:86.9671401977539px;font-family:MaturaMTScriptCapitals, Matura MT Script Capitals">Guitar Ma<tspan x="445.28" y="0" style="letter-spacing:-0.02490613834230623em">k</tspan><tspan x="486.6" y="0">e</tspan><tspan x="522.82" y="0" style="letter-spacing:-0.013182960511211683em">r</tspan><tspan x="555.18" y="0">s</tspan></text><line x1="37.13" y1="434.42" x2="380.16" y2="434.42" style="fill:none"/><line x1="57.69" y1="435.43" x2="690.59" y2="435.44" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:3.6406318472150425px"/><line x1="57.51" y1="320.28" x2="690.41" y2="320.28" style="fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:3.6406318472150425px"/><text transform="translate(72.13 398.39)" style="font-size:86.9671401977539px;fill:#f15a24;font-family:MaturaMTScriptCapitals, Matura MT Script Capitals">Guitar Ma<tspan x="445.28" y="0" style="letter-spacing:-0.02490613834230623em">k</tspan><tspan x="486.6" y="0">e</tspan><tspan x="522.82" y="0" style="letter-spacing:-0.013182960511211683em">r</tspan><tspan x="555.18" y="0">s</tspan></text><line x1="57.79" y1="433.81" x2="690.69" y2="433.81" style="fill:#f15a24;stroke:#f15a24;stroke-miterlimit:10;stroke-width:3.6406318472150425px"/><line x1="57.61" y1="318.65" x2="690.51" y2="318.65" style="fill:#f15a24;stroke:#f15a24;stroke-miterlimit:10;stroke-width:3.6406318472150425px"/></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1500">
+    <path
+        d="M827.7,1155.86c-34.54,59.81-120.86,59.81-155.4,0L476.5,816.72,319,543.82C267.41,454.57,331.83,343,434.89,343h630.22c103.06,0,167.48,111.57,115.94,200.82L1023.5,816.72Z"
+        style="fill:#1d1d1b" />
+    <polyline
+        points="592.72 605.95 755.93 529.36 906.72 605.95 886.85 1066.93 839.32 1143.07 839.32 1204 661.98 1204 661.98 1146.82 661.98 1142.05 620.8 1071.59"
+        style="fill:#CACACA" />
+    <circle cx="657" cy="691" r="27" />
+    <circle cx="845" cy="691" r="27" />
+    <circle cx="657" cy="804" r="27" />
+    <circle cx="845" cy="804" r="27" />
+    <circle cx="656" cy="917" r="27" />
+    <circle cx="844" cy="917" r="27" />
+    <circle cx="942" cy="691" r="27" style="fill:#CACACA" />
+    <rect x="881" y="685" width="40" height="13" style="fill:#CACACA" />
+    <circle cx="942" cy="804" r="27" style="fill:#CACACA" />
+    <rect x="881" y="798" width="40" height="13" style="fill:#CACACA" />
+    <circle cx="938" cy="917" r="27" style="fill:#CACACA" />
+    <rect x="877" y="911" width="40" height="13" style="fill:#CACACA" />
+    <circle cx="557" cy="691" r="27" style="fill:#CACACA" />
+    <rect x="578" y="684" width="40" height="13" transform="translate(1196 1381) rotate(180)" style="fill:#CACACA" />
+    <circle cx="561" cy="804" r="27" style="fill:#CACACA" />
+    <rect x="582" y="797" width="40" height="13" transform="translate(1204 1607) rotate(180)" style="fill:#CACACA" />
+    <circle cx="565" cy="915" r="27" style="fill:#CACACA" />
+    <rect x="586" y="908" width="40" height="13" transform="translate(1212 1829) rotate(180)" style="fill:#CACACA" /><text
+        transform="translate(460 467.5)"
+        style="font-size:72px;fill:#fff;font-family:CopperplateGothic-Light, Copperplate Gothic Light;font-weight:300">Gui
+        <tspan x="125.65" y="0" style="letter-spacing:-0.06201171875em">t</tspan>
+        <tspan x="160.98" y="0">ar Ma</tspan>
+        <tspan x="380.14" y="0" style="letter-spacing:0.0107421875em">k</tspan>
+        <tspan x="425.32" y="0">e</tspan>
+        <tspan x="468.25" y="0" style="letter-spacing:-0.01123046875em">r</tspan>
+        <tspan x="513.42" y="0">s</tspan>
+    </text></svg>
+
+    
